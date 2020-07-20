@@ -7,9 +7,10 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: url('../img/wow.png) bottom center no-repeat;
+	background: url('../img/wow.png') bottom center no-repeat;
 	background-size: cover;
 	font-size: 1 em;
+C:\Users\catbo\Desktop\skillcrush-center-flexbox-starter-2\skillcrush-center-flexbox-starter-2\img
 }
 .centered {
 	padding: 0 3.125em;
